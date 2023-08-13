@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" src="https://media-exp1.licdn.com/dms/image/C4E0BAQF7BYCCZt5epw/company-logo_200_200/0?e=2159024400&v=beta&t=qUAFP9bUgBEEXGVQYpUXW1J_OiP8e0r4rFBpqp8OrxA">
+o<img align="right" width="150" height="150" src="https://media-exp1.licdn.com/dms/image/C4E0BAQF7BYCCZt5epw/company-logo_200_200/0?e=2159024400&v=beta&t=qUAFP9bUgBEEXGVQYpUXW1J_OiP8e0r4rFBpqp8OrxA">
 
 # JS-03 Declare and Use Functions
 
@@ -18,8 +18,8 @@ Start coding up your answer once you have completed step 4.
 
 ### Exercise #2.1
 
-Maria has to calculate the cost of her payments for the month. For every transation there is a $3 fee and a 0.1% (0.01) interest fee.
-Can you help her calculate her costs?
+Maria has to calculate the cost of her payments for the month. For every transaction, there is a $3 fee and a 0.1% (0.01) interest fee.
+Can you help her calculate her costs (create a function for calculation)?
 
 Return the value of what she should be paying.
 
